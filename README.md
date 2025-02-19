@@ -1,4 +1,3 @@
-My approach to investigating a potential insider threat would involve a systematic analysis of diverse data sources, focusing on anomaly detection and behavioral pattern recognition, while prioritizing privacy and ethical considerations
 Data Analysis Methodology
 Data collection and pre-processing Gather relevant data from network, employee access records, email, and other relevant sources Clean and pre-process the data, handling missing values and inconsistencies
 Baseline establishment Establish a baseline of normal behavior for each employee, by analyzing historical data to understand typical access patterns, communication frequency, network activity, and resource usage Statistical methods  can be used to define normal ranges for these metrics
@@ -16,5 +15,6 @@ Transparency and Ethical Standards
 Transparency Communicate the investigation process to employees, emphasizing the company's commitment to privacy and the reasons for the investigation
 Ethical Guidelines Adhere to strict ethical guidelines throughout the investigation Avoid profiling or making assumptions based on personal characteristics Maintain confidentiality and data security
 Legal Compliance Ensure all investigation activities comply with relevant laws and regulations
+
 
 
